@@ -10,7 +10,7 @@
 
 </summary>
 
-![preview](/preview.jpg&w100h100)
+<img src="/preview.jpg" alt="Preview" width="300" height="250" />
 
 </details>
 
