@@ -17,7 +17,7 @@
 ## 快速品鉴🥰
 
 1. 将 `emoticon_template_mahiru.json` 放入 `scenario` 文件夹.
-2. 在bot的 `config.py`文件中将 `preset_mode` 改为 `true`,并将 `prompt_submit_length`调高到`2000`以上
+2. 在bot的 `config.py`文件中将 `preset_mode` 改为 `full_scenario`,并将 `prompt_submit_length`调高到`2000`以上
 3. 执行`!reload`命令，并执行 `!reset emoticon_template_mahiru` 切换预设。
 4. 开始聊天！
 
