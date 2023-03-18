@@ -10,7 +10,7 @@
 
 </summary>
 
-![preview](/preview.jpg)
+![preview](/preview.jpg&w100h100)
 
 </details>
 
