@@ -2,6 +2,8 @@
 
 - 需要配合[**QChatGPT**](https://github.com/RockChinQ/QChatGPT)最新版本的情景JSON进行调教后方可食用~
 
+- 暂时只支持url形式的图片
+
 <details>
 
 <summary>
