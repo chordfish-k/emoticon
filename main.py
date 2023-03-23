@@ -2,7 +2,7 @@ from pkg.plugin.models import *
 from pkg.plugin.host import EventContext, PluginHost
 
 from mirai import Image
-import plugins.emotion.config as config
+import plugins.emoticon.config as config
 import random
 
 """
@@ -11,7 +11,7 @@ import random
 
 
 # 注册插件
-@register(name="Emoticons", description="表情包表达式转换", version="0.1", author="chordfish-k")
+@register(name="emoticon", description="表情包表达式转换", version="0.1", author="chordfish-k")
 class HelloPlugin(Plugin):
 
     # 插件加载时触发
